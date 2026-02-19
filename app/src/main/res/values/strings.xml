@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">로또 번호 추천</string>
+    <string name="subtitle">버튼을 눌러 행운의 번호를 뽑으세요!</string>
+    <string name="generate_button">번호 생성</string>
 </resources>
